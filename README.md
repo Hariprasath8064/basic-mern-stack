@@ -1,31 +1,26 @@
-#Products Store
+# Products Store
 
-Products Store is a web application built using the MERN stack (MongoDB, Express.js, React with Vite, and Node.js) that showcases basic CRUD (Create, Read, Update, Delete) operations. The application allows users to manage a list of products with ease.
+**Products Store** is a web application built using the MERN stack (MongoDB, Express.js, React with Vite, and Node.js) that showcases basic CRUD (Create, Read, Update, Delete) operations. The application allows users to manage a list of products with ease.
 
-##Features
+## Features
 
--Add new products
+- **Add new products**
+- **View a list of products**
+- **Update existing product details**
+- **Delete products**
 
--View a list of products
+## Technologies Used
 
--Update existing product details
+### Frontend
 
--Delete products
+- **Vite**: A fast frontend build tool.
+- **React**: For building the user interface.
 
-#Technologies Used
+### Backend
 
-##Frontend
+- **Node.js**: JavaScript runtime for the server.
+- **Express.js**: Web framework for building the REST API.
 
--Vite: A fast frontend build tool.
+### Database
 
--React: For building the user interface.
-
-##Backend
-
--Node.js: JavaScript runtime for the server.
-
--Express.js: Web framework for building the REST API.
-
--Database
-
--MongoDB: Database for storing product information.
+- **MongoDB**: Database for storing product information.
